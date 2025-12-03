@@ -1,6 +1,6 @@
 {
   "name": "HanaView Market Dashboard",
-  "short_name": "HanaView(β)",
+  "short_name": "HanaView",
   "description": "市況ダッシュボード",
   "start_url": "./",
   "display": "standalone",
